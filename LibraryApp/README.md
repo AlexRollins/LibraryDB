@@ -56,4 +56,4 @@ Complete the data access methods in `JdbcEmployeeDao`. Refer to the documentatio
 
 You can remove any existing `return` statement in the method when you start working on it.
 
-After you complete this step, the tests in `JdbcEmployeeDaoTests` pass.
+After you complete this step, the tests in `JdbcEmployeeDaoTests` pas.
